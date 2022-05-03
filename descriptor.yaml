@@ -1,0 +1,5 @@
+code: ggexample-bundle
+description: This is an example of an Entando bundle by gigi
+components:
+  widgets:
+    - widgets/example-widget.yaml

@@ -1,0 +1,6 @@
+code: ggexample-widget
+titles:
+   en: Example Widget by gigi
+   it: Widget d'esempio by gigi
+group: free
+customUi: <h2>Hi from Example Widget by gigi</h2>
